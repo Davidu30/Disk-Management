@@ -1,0 +1,24 @@
+﻿  VolumeHeader.cpp
+  TestLevel_3.cpp
+c:\users\davidu\desktop\fms5774_3755_6603-master\fms5774_3755_6603\testlevel_3.cpp(12): warning C4101: 'x': unreferenced local variable
+c:\users\davidu\desktop\fms5774_3755_6603-master\fms5774_3755_6603\testlevel_3.cpp(67): warning C4101: 'a': unreferenced local variable
+  TestLevel_2.cpp
+  TestLevel_0.h
+  TestLevel1.cpp
+  DMS.cpp
+  main.cpp
+  FileHeader.cpp
+  FCB.cpp
+c:\users\davidu\desktop\fms5774_3755_6603-master\fms5774_3755_6603\fcb.cpp(195): warning C4018: '>': signed/unsigned mismatch
+c:\users\davidu\desktop\fms5774_3755_6603-master\fms5774_3755_6603\fcb.cpp(251): warning C4018: '<': signed/unsigned mismatch
+  Disk.cpp
+c:\users\davidu\desktop\fms5774_3755_6603-master\fms5774_3755_6603\disk.cpp(510): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\davidu\desktop\fms5774_3755_6603-master\fms5774_3755_6603\disk.cpp(824): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  DirEntry.cpp
+  Dat.cpp
+  Generating Code...
+c:\users\davidu\desktop\fms5774_3755_6603-master\fms5774_3755_6603\fcb.cpp(109): warning C4715: 'FCB::findCurrnetSector': not all control paths return a value
+TestLevel_0.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+FileHeader.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+Dat.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  FMS5774_3755_6603.vcxproj -> C:\Users\davidu\Desktop\FMS5774_3755_6603-master\x64\Debug\FMS5774_3755_6603.lib

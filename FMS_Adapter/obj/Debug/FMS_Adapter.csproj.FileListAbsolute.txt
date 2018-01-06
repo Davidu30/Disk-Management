@@ -1,0 +1,64 @@
+C:\Users\זיו\Desktop\FMS5774_1343_6175\FMS_Adapter\bin\Debug\FMS_Adapter.exe.config
+C:\Users\זיו\Desktop\FMS5774_1343_6175\FMS_Adapter\bin\Debug\FMS_Adapter.exe
+C:\Users\זיו\Desktop\FMS5774_1343_6175\FMS_Adapter\bin\Debug\FMS_Adapter.pdb
+C:\Users\זיו\Desktop\FMS5774_1343_6175\FMS_Adapter\obj\Debug\FMS_Adapter.exe
+C:\Users\זיו\Desktop\FMS5774_1343_6175\FMS_Adapter\obj\Debug\FMS_Adapter.pdb
+C:\Users\RONEN\Desktop\FMS5774_1343_6175\FMS_Adapter\bin\Debug\FMS_Adapter.exe.config
+C:\Users\RONEN\Desktop\FMS5774_1343_6175\FMS_Adapter\obj\Debug\FMS_Adapter.exe
+C:\Users\RONEN\Desktop\FMS5774_1343_6175\FMS_Adapter\obj\Debug\FMS_Adapter.pdb
+C:\Users\RONEN\Desktop\FMS5774_1343_6175\FMS_Adapter\bin\Debug\FMS_Adapter.exe
+C:\Users\RONEN\Desktop\FMS5774_1343_6175\FMS_Adapter\bin\Debug\FMS_Adapter.pdb
+C:\Users\RONEN\Desktop\FMS5774_1343ח_6175\FMS_Adapter\bin\Debug\FMS_Adapter.exe.config
+C:\Users\RONEN\Desktop\FMS5774_1343ח_6175\FMS_Adapter\bin\Debug\FMS_Adapter.exe
+C:\Users\RONEN\Desktop\FMS5774_1343ח_6175\FMS_Adapter\bin\Debug\FMS_Adapter.pdb
+C:\Users\RONEN\Desktop\FMS5774_1343ח_6175\FMS_Adapter\obj\Debug\FMS_Adapter.exe
+C:\Users\RONEN\Desktop\FMS5774_1343ח_6175\FMS_Adapter\obj\Debug\FMS_Adapter.pdb
+C:\Users\RONEN\Desktop\2\FMS_Adapter\bin\Debug\FMS_Adapter.exe.config
+C:\Users\RONEN\Desktop\2\FMS_Adapter\bin\Debug\FMS_Adapter.exe
+C:\Users\RONEN\Desktop\2\FMS_Adapter\bin\Debug\FMS_Adapter.pdb
+C:\Users\RONEN\Desktop\2\FMS_Adapter\obj\Debug\FMS_Adapter.exe
+C:\Users\RONEN\Desktop\2\FMS_Adapter\obj\Debug\FMS_Adapter.pdb
+C:\Users\RONEN\Desktop\2\FMS_Adapter\obj\Debug\FMS_Adapter.csprojResolveAssemblyReference.cache
+C:\Users\זיו\Desktop\2\FMS_Adapter\bin\Debug\FMS_Adapter.exe.config
+C:\Users\זיו\Desktop\2\FMS_Adapter\bin\Debug\FMS_Adapter.exe
+C:\Users\זיו\Desktop\2\FMS_Adapter\bin\Debug\FMS_Adapter.pdb
+C:\Users\זיו\Desktop\2\FMS_Adapter\obj\Debug\FMS_Adapter.exe
+C:\Users\זיו\Desktop\2\FMS_Adapter\obj\Debug\FMS_Adapter.pdb
+C:\Users\RONEN\Desktop\3\FMS_Adapter\bin\Debug\FMS_Adapter.exe.config
+C:\Users\RONEN\Desktop\3\FMS_Adapter\bin\Debug\FMS_Adapter.exe
+C:\Users\RONEN\Desktop\3\FMS_Adapter\bin\Debug\FMS_Adapter.pdb
+C:\Users\RONEN\Desktop\3\FMS_Adapter\obj\Debug\FMS_Adapter.exe
+C:\Users\RONEN\Desktop\3\FMS_Adapter\obj\Debug\FMS_Adapter.pdb
+C:\Users\זיו\Desktop\3\FMS_Adapter\bin\Debug\FMS_Adapter.exe.config
+C:\Users\זיו\Desktop\3\FMS_Adapter\bin\Debug\FMS_Adapter.exe
+C:\Users\זיו\Desktop\3\FMS_Adapter\bin\Debug\FMS_Adapter.pdb
+C:\Users\זיו\Desktop\3\FMS_Adapter\obj\Debug\FMS_Adapter.exe
+C:\Users\זיו\Desktop\3\FMS_Adapter\obj\Debug\FMS_Adapter.pdb
+C:\Users\RONEN\Desktop\FMS\FMS_Adapter\bin\Debug\FMS_Adapter.exe.config
+C:\Users\RONEN\Desktop\FMS\FMS_Adapter\bin\Debug\FMS_Adapter.exe
+C:\Users\RONEN\Desktop\FMS\FMS_Adapter\bin\Debug\FMS_Adapter.pdb
+C:\Users\RONEN\Desktop\FMS\FMS_Adapter\obj\Debug\FMS_Adapter.exe
+C:\Users\RONEN\Desktop\FMS\FMS_Adapter\obj\Debug\FMS_Adapter.pdb
+C:\Users\RONEN\Desktop\FMS\FMS_Adapter\obj\Debug\FMS_Adapter.csprojResolveAssemblyReference.cache
+C:\Users\זיו\Desktop\FMS\FMS_Adapter\bin\Debug\FMS_Adapter.exe.config
+C:\Users\זיו\Desktop\FMS\FMS_Adapter\bin\Debug\FMS_Adapter.exe
+C:\Users\זיו\Desktop\FMS\FMS_Adapter\bin\Debug\FMS_Adapter.pdb
+C:\Users\זיו\Desktop\FMS\FMS_Adapter\obj\Debug\FMS_Adapter.exe
+C:\Users\זיו\Desktop\FMS\FMS_Adapter\obj\Debug\FMS_Adapter.pdb
+C:\Users\davidu\Downloads\FMS\FMS_Adapter\bin\Debug\FMS_Adapter.exe.config
+C:\Users\davidu\Downloads\FMS\FMS_Adapter\bin\Debug\FMS_Adapter.exe
+C:\Users\davidu\Downloads\FMS\FMS_Adapter\bin\Debug\FMS_Adapter.pdb
+C:\Users\davidu\Downloads\FMS\FMS_Adapter\obj\Debug\FMS_Adapter.csprojResolveAssemblyReference.cache
+C:\Users\davidu\Downloads\FMS\FMS_Adapter\obj\Debug\FMS_Adapter.exe
+C:\Users\davidu\Downloads\FMS\FMS_Adapter\obj\Debug\FMS_Adapter.pdb
+C:\Users\davidu\Desktop\FMS5774_3755_6603-master\FMS_Adapter\bin\Debug\FMS_Adapter.exe.config
+C:\Users\davidu\Desktop\FMS5774_3755_6603-master\FMS_Adapter\bin\Debug\FMS_Adapter.exe
+C:\Users\davidu\Desktop\FMS5774_3755_6603-master\FMS_Adapter\bin\Debug\FMS_Adapter.pdb
+C:\Users\davidu\Desktop\FMS5774_3755_6603-master\FMS_Adapter\obj\Debug\FMS_Adapter.csprojResolveAssemblyReference.cache
+C:\Users\davidu\Desktop\FMS5774_3755_6603-master\FMS_Adapter\obj\Debug\FMS_Adapter.exe
+C:\Users\davidu\Desktop\FMS5774_3755_6603-master\FMS_Adapter\obj\Debug\FMS_Adapter.pdb
+C:\Users\davidu\Desktop\לימודים הכל\דרייב לימודים\שנה ב\שנה ב סמסטר ב\FMS5774_3755_6603-master\FMS_Adapter\bin\Debug\FMS_Adapter.exe.config
+C:\Users\davidu\Desktop\לימודים הכל\דרייב לימודים\שנה ב\שנה ב סמסטר ב\FMS5774_3755_6603-master\FMS_Adapter\bin\Debug\FMS_Adapter.exe
+C:\Users\davidu\Desktop\לימודים הכל\דרייב לימודים\שנה ב\שנה ב סמסטר ב\FMS5774_3755_6603-master\FMS_Adapter\bin\Debug\FMS_Adapter.pdb
+C:\Users\davidu\Desktop\לימודים הכל\דרייב לימודים\שנה ב\שנה ב סמסטר ב\FMS5774_3755_6603-master\FMS_Adapter\obj\Debug\FMS_Adapter.exe
+C:\Users\davidu\Desktop\לימודים הכל\דרייב לימודים\שנה ב\שנה ב סמסטר ב\FMS5774_3755_6603-master\FMS_Adapter\obj\Debug\FMS_Adapter.pdb
